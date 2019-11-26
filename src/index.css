@@ -9,4 +9,79 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: darkred;
+}
+
+.header {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+img {
+  height: 30rem;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  flex-direction: row;
+}
+
+.bandName {
+  font-size: 1.25rem;
+  margin-right: 0.1rem;
+  align-self: center;
+  display: flex;
+  width: auto;
+  padding: 1rem;
+  color: darkred;
+}
+
+.bandInfo {
+  margin-left: 3rem;
+  text-align: center;
+  width: auto;
+  display: flex;
+  align-self: center;
+  justify-items: left;
+  text-align: justify;
+  margin-right: 2rem;
+}
+
+.red-hot-chili-peppers,
+.pearl-jam,
+.everclear {
+  display: flex;
+  text-align: center;
+  width: auto;
+  justify-content: center;
+}
+
+.red-hot-chili-peppers img,
+.pearl-jam img,
+.everclear img {
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-top: 1rem;
+  box-shadow: 3px 3px 5px 0px black;
+}
+
+.names {
+  margin-top: 1rem;
+  font-size: 2rem;
+  color: darkred;
 }

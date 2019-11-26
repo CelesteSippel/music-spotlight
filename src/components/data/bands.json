@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "category": "red-hot-chili-peppers",
+      "music": [
+        {
+          "image": "https://consequenceofsound.net/wp-content/uploads/2016/05/red-hot-chili-peppers-getaway-song-mp3-stream.png",
+          "title": "Red Hot Chili Peppers",
+          "info": "Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1983. The group's musical style primarily consists of alternative rock with an emphasis on funk, as well as elements from other genres such as punk rock and psychedelic rock.",
+          "album": "The Getaway (2016)",
+          "className": "red-hot-chili-peppers"
+        }
+      ]
+    },
+    {
+      "category": "pearl-jam",
+      "music": [
+        {
+          "image": "https://www.alternativenation.net/wp-content/uploads/2018/01/pearljamhugging.jpg",
+          "title": "Pearl Jam",
+          "info": "Pearl Jam is an American rock band formed in 1990 in Seattle, Washington. The band's current lineup comprises founding members Eddie Vedder, Mike McCready, Stone Gossard and Jeff Ament and Matt Cameron. Keyboardist Boom Gaspar has also been a session/touring member with the band since 2002.",
+          "album": "Lightning Bolt (2013)",
+          "className": "pearl-jam"
+        }
+      ]
+    },
+    {
+      "category": "everclear",
+      "music": [
+        {
+          "image": "http://images.huffingtonpost.com/2015-11-30-1448897367-6500079-IMG954352.jpg",
+          "title": "Everclear",
+          "info": "Everclear is an American rock band formed in Portland, Oregon, in 1991. The band was formed by Art Alexakis, the band's lead songwriter, vocalist, and guitarist; and for most of the band's height of popularity, consisted of Craig Montoya on bass guitar and Greg Eklund on drums.",
+          "album": "Black Is the New Black (2015)",
+          "className": "everclear"
+        }
+      ]
+    }
+  ]
+}
